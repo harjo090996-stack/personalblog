@@ -1,0 +1,131 @@
+baseURL: 'https://harshaljoshi.in/'
+languageCode: 'en-us'
+title: 'Harshals Knowledge Repo'
+theme: 'PaperMod'
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 3
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # Required for the built-in search functionality
+
+menu:
+  main:
+    - identifier: blog
+      name: Archive
+      url: /archives/
+      weight: 10
+    - identifier: books
+      name: Books
+      url: /books/
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30    
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
+    - identifier: subscribe
+      name: LinkedIn
+      url: "https://www.linkedin.com/in/harshalmangeshjoshi/"
+      weight: 60
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  author: Harshal Joshi
+  
+  defaultTheme: 'auto' # Matches the visitor's system dark/light mode
+  displayFullLangName: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  images: ["images/papermod-cover.png"]
+
+  # These sections are now properly indented under 'params'
+  label:
+    text: "Harshal Joshi"
+    icon: "/images/avatar.png" 
+    iconHeight: 35
+
+  profileMode:
+    enabled: false
+    title: Avatar
+    imageUrl: "/images/avatar.png"
+    imageTitle: my image
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: >
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <img src="/images/profile.png" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; border: 2px solid #8cc63f;" alt="Profile Picture">
+        <span>Harshal Joshi</span>
+      </div>
+    Content: |
+      Inquisitive Reader, Explorer of Knowledge Rabbitholes & Deep Tech enthusiast. I write about Investment themes, Startups, Books and Life [Read more..](/about/)
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/harjo090996-stack"
+    - name: LinkedIn
+      title: Connect with me on LinkedIn
+      url: "https://www.linkedin.com/in/harshalmangeshjoshi/"
+    - name: Substack
+      title: Connect on Substack
+      url: "https://bythefinancealley.substack.com/"
+    - name: Email
+      title: Mail me at
+      url: "mailto:harshaljoshi096@gmail.com"
+
+assets:
+  disableHLJS: true
+  favicon: "/favicon.ico"
+  favicon16x16: "/favicon-16x16.png"
+  favicon32x32: "/favicon-32x32.png"
+  apple_touch_icon: "/apple-touch-icon.png"
+  safari_pinned_tab: "/safari-pinned-tab.svg"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+privacy:
+  instagram:
+    disable: false
+  x:
+    disable: false

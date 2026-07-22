@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Economics on Harshals Knowledge Repo</title>
+    <link>http://localhost:1313/categories/economics/</link>
+    <description>Recent content in Economics on Harshals Knowledge Repo</description>
+    <image>
+      <title>Harshals Knowledge Repo</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 10:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is Turmoil the only Oil left for the Mechanics of Economy?</title>
+      <link>http://localhost:1313/posts/2026-05-29-turmoiloil/</link>
+      <pubDate>Fri, 29 May 2026 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/2026-05-29-turmoiloil/</guid>
+      <description>&lt;p&gt;The Economic Survey of India 2025-26 presented on 29th Jan had highlighted how India&amp;rsquo;s GDP Growth can be hampered by a combination of elements like Financial Stress, trade frictions and geopolitical tensions. It stated how the world will be in constant state of turmoil and the key will be less about continuity but more about managed disorder.&lt;/p&gt;
+&lt;p&gt;Lo and behold, just as one month passes by after the economic survey, we have countries in the Middle East scurrying to war. As India watches by, it brings nothing but more friction to an already dull investment climate.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

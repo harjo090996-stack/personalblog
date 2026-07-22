@@ -1,0 +1,22 @@
+---
+title: "Langdon's Barcelona"
+date: 2025-11-25 10:00:00 +0530
+categories: [Life, Travel]
+tags: [europe, barcelona, books]
+---
+
+In the age of books and classics being converted into movies, it is common for people to come up with comparisons. A high handedness emerges from the book readers claiming deviation of the plot from the book and debate ensues. But in my case, it was not a comparison between a book and a film or series rather a comparison of reality and then experiencing the same while reading a book. The book was from a author who is well known to mix fact with fiction intricately and even this time he did not disappoint.
+
+Dan Brown’s Origin set in Barcelona couldn't land in my lap at a better time, thanks to a suggestion from an old friend. Travelers write about finding out intricate details about the place when they visit but for me I found some more wisdom reading the book. Like finding out from the book that the Barcelona Supercomputing Center is actually situated inside a church which I was not aware of actually being inside. Alas! Calls for more Situational Awareness it seems.
+
+The books protagonist surely knows how to romanticize the Catalonian City. I could feel the nostalgia of our Grad Trip throbbing out of my being. Gaudi's architectural wonder Sagrada Familia, Park Guell and Las Ramblas all came back to me. I remember seeing the towering Sagrada from the Bunkers where the view of the entire city is pure beauty against the backdrop of the setting sun. A spray painting on the bus stop near bunkers “Go Away Tourists” haunts me to this day that whether all these beautiful places, cities and natural wonders be destroyed by over-tourism. Will the already fragile European Economy reel under inflating house prices with house owners converting residences to AirBnbs, time will tell.
+
+Coming back towards the bright side though, one more theme which is intricately weaved well in the book is the existence of God and the fundamental question of “Where did life come from and Where will life go”. An interesting thought was the theory proposed by Jeremy England that how we as organisms were an efficient means to increase the entropy or disorder in the surroundings as a whole trying to solve the theory of why there was an order brought in when the goal is to always increase the entropy of the universe.
+
+Hopping on Science and Religion, I wander back to our stay there which was a good fifteen days of Adventure. The buses back and forth from hotels at St. Boi, metro trains, Gothic Quarters, the memories keep flooding. For us students, nearly all of them visiting any country outside India for the first time everything was photogenic and a memory. The trains running at 300 kmph to Madrid, the not so famous plaza or cathedral, all were tourist traps for us frankly. I am not much of a football fan but visiting Camp Nou too turned out to be quite exhilarating for me. To sit in dug outs frequented by Messi and Ronaldo, gosh that was too much for our Sports Frenzy minds. We ran on the Barcelona Beach all tummies showing the continuous attacks of bread, tomatoes and for some of them wine too. In Barcelona too we were not feeling alone since we had our friendly Pakistani neighbours marauding as Indians and trying to sell us Cigarettes Beer and in some cases even Indian food. A hiatus at the local club Pasha made us realize we Indians are still quite behind when it comes to the party scene. Frankly the better part was spending some time outside on the beach of the club with your loved ones before it became too overwhelming.
+
+Kudos to our college for organizing a splendid treasure hunt on the first day ending with a dinner at a restaurant which was located on a century old train station which set our expectations high from the city of Barcelona.
+
+All in all, the time spent with your friends and loved ones filled with wild adventures was the cheery on the cake. Was the getting together and then expending your energy walking 15k steps per day and enjoying to the fullest a tacit way of the universe to increase the entropy, only God knows. Guess we do serve a higher purpose for the universe, a thought which was heavily contradicted by us stealing (borrowing to eat) cups of flavoured yogurt daily from the hotel breakfast spread.
+
+Onwards and Upwards to more iconic cities around the World!!

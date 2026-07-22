@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Random Thoughts on Harshals Knowledge Repo</title>
+    <link>http://localhost:1313/tags/random-thoughts/</link>
+    <description>Recent content in Random Thoughts on Harshals Knowledge Repo</description>
+    <image>
+      <title>Harshals Knowledge Repo</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Nov 2025 10:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/random-thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To Saunter or Not to</title>
+      <link>http://localhost:1313/posts/2025-11-24-saunter/</link>
+      <pubDate>Mon, 24 Nov 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/2025-11-24-saunter/</guid>
+      <description>&lt;p&gt;The first thing after reading this title that I wrote was why I am using a fancy word for walking leisurely. But alas I&amp;rsquo;m too engrossed in romanticizing walking as do people to running. I came across this word first reading about Aristotle and his “School of Peripatetics” which was his way of bringing clarity to thoughts while walking. He used to teach while walking and run thought experiments. But I&amp;rsquo;m not always thinking about such critical things while walking and hence I stuck upon Saunter which is more like wandering without any aim. For me this is the time actually where I&amp;rsquo;m thinking so much on so many things that I pick up random rabbit holes of knowledge, end up reading too much enough to conclude that there is so much more to that topic and the cycle continues.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

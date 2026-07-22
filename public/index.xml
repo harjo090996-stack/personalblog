@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Harshals Knowledge Repo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Harshals Knowledge Repo</description>
+    <image>
+      <title>Harshals Knowledge Repo</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 10:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is Turmoil the only Oil left for the Mechanics of Economy?</title>
+      <link>http://localhost:1313/posts/2026-05-29-turmoiloil/</link>
+      <pubDate>Fri, 29 May 2026 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/2026-05-29-turmoiloil/</guid>
+      <description>&lt;p&gt;The Economic Survey of India 2025-26 presented on 29th Jan had highlighted how India&amp;rsquo;s GDP Growth can be hampered by a combination of elements like Financial Stress, trade frictions and geopolitical tensions. It stated how the world will be in constant state of turmoil and the key will be less about continuity but more about managed disorder.&lt;/p&gt;
+&lt;p&gt;Lo and behold, just as one month passes by after the economic survey, we have countries in the Middle East scurrying to war. As India watches by, it brings nothing but more friction to an already dull investment climate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Langdon&#39;s Barcelona</title>
+      <link>http://localhost:1313/posts/2025-11-25-robertsbarcelona/</link>
+      <pubDate>Tue, 25 Nov 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/2025-11-25-robertsbarcelona/</guid>
+      <description>&lt;p&gt;In the age of books and classics being converted into movies, it is common for people to come up with comparisons. A high handedness emerges from the book readers claiming deviation of the plot from the book and debate ensues. But in my case, it was not a comparison between a book and a film or series rather a comparison of reality and then experiencing the same while reading a book. The book was from a author who is well known to mix fact with fiction intricately and even this time he did not disappoint.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Banking Funnel</title>
+      <link>http://localhost:1313/posts/2025-11-25-bankingfunnel/</link>
+      <pubDate>Tue, 25 Nov 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/2025-11-25-bankingfunnel/</guid>
+      <description>&lt;p&gt;With the monetary policy committee (MPC) of RBI meeting between 4th to 6th August and a fresh wave of sanctions from Trump there is a lot of chatter on what stance would be taken going ahead. Even though there is a large focus on the repo rate changes which the central banks propose there are still very different tacit approaches by which the liquidity in economy is controlled. There are controls not only on the credit disbursed but where the credit is being disbursed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>To Saunter or Not to</title>
+      <link>http://localhost:1313/posts/2025-11-24-saunter/</link>
+      <pubDate>Mon, 24 Nov 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/2025-11-24-saunter/</guid>
+      <description>&lt;p&gt;The first thing after reading this title that I wrote was why I am using a fancy word for walking leisurely. But alas I&amp;rsquo;m too engrossed in romanticizing walking as do people to running. I came across this word first reading about Aristotle and his “School of Peripatetics” which was his way of bringing clarity to thoughts while walking. He used to teach while walking and run thought experiments. But I&amp;rsquo;m not always thinking about such critical things while walking and hence I stuck upon Saunter which is more like wandering without any aim. For me this is the time actually where I&amp;rsquo;m thinking so much on so many things that I pick up random rabbit holes of knowledge, end up reading too much enough to conclude that there is so much more to that topic and the cycle continues.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>about</description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/</guid>
+      <description>&lt;p&gt;Since 2010, I’ve written nine books about startups, venture capital, and the community and life around them. I read a lot and &lt;a href=&#34;#&#34;&gt;list everything I’ve read on Goodreads&lt;/a&gt;. I also write &lt;a href=&#34;#&#34;&gt;book reviews on my blog&lt;/a&gt;, and everything is on my &lt;a href=&#34;#&#34;&gt;Amazon author page&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;books-on-finance&#34;&gt;Books on Finance&lt;/h1&gt;
+&lt;div class=&#34;book-grid&#34;&gt;
+  &lt;!-- Card 1 --&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;div class=&#34;book-cover&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/images/toobigtofail.jpg&#34; alt=&#34;Too Big to Fail&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;book-info&#34;&gt;
+      &lt;div class=&#34;book-title&#34;&gt;Too Big to Fail &lt;span class=&#34;book-badge&#34;&gt;NEW&lt;/span&gt;&lt;/div&gt;
+      &lt;div class=&#34;book-subtitle&#34;&gt;The Inside Story of How Wall Street Fought&lt;/div&gt;
+      &lt;div class=&#34;book-meta&#34;&gt;Ideapress Publishing · Andrew Ross Sorkin · 2025&lt;/div&gt;
+      &lt;div class=&#34;book-desc&#34;&gt;The philosophy behind every great startup community — giving without expecting anything back, and how it makes you a better mentor and leader.&lt;/div&gt;
+      &lt;a href=&#34;https://goodreads.com/book/show/6687247.Too_Big_to_Fail_The_Inside_Story_of_How_Wall_Street_and_Washington_Fought_to_Save_the_Financial_System_from_Crisis___and_Themselves&#34; class=&#34;book-btn&#34;&gt;On Goodreads&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Card 2 --&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;div class=&#34;book-cover&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/images/venture-deals.jpg&#34; alt=&#34;Venture Deals Book Cover&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;book-info&#34;&gt;
+      &lt;div class=&#34;book-title&#34;&gt;Venture Deals&lt;/div&gt;
+      &lt;div class=&#34;book-subtitle&#34;&gt;Be Smarter Than Your Lawyer and Venture Capitalist&lt;/div&gt;
+      &lt;div class=&#34;book-meta&#34;&gt;Wiley · with Jason Mendelson · 4th edition · 2019&lt;/div&gt;
+      &lt;div class=&#34;book-desc&#34;&gt;How venture capital deals really come together — the term-sheet classic a generation of founders learned from.&lt;/div&gt;
+      &lt;a href=&#34;#&#34; class=&#34;book-btn&#34;&gt;Buy on Amazon&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Card 3 --&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;div class=&#34;book-cover&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/images/venture-deals.jpg&#34; alt=&#34;Venture Deals Book Cover&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;book-info&#34;&gt;
+      &lt;div class=&#34;book-title&#34;&gt;Venture Deals&lt;/div&gt;
+      &lt;div class=&#34;book-subtitle&#34;&gt;Be Smarter Than Your Lawyer and Venture Capitalist&lt;/div&gt;
+      &lt;div class=&#34;book-meta&#34;&gt;Wiley · with Jason Mendelson · 4th edition · 2019&lt;/div&gt;
+      &lt;div class=&#34;book-desc&#34;&gt;How venture capital deals really come together — the term-sheet classic a generation of founders learned from.&lt;/div&gt;
+      &lt;a href=&#34;#&#34; class=&#34;book-btn&#34;&gt;Buy on Amazon&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Card 4 --&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;div class=&#34;book-cover&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/images/venture-deals.jpg&#34; alt=&#34;Venture Deals Book Cover&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;book-info&#34;&gt;
+      &lt;div class=&#34;book-title&#34;&gt;Venture Deals&lt;/div&gt;
+      &lt;div class=&#34;book-subtitle&#34;&gt;Be Smarter Than Your Lawyer and Venture Capitalist&lt;/div&gt;
+      &lt;div class=&#34;book-meta&#34;&gt;Wiley · with Jason Mendelson · 4th edition · 2019&lt;/div&gt;
+      &lt;div class=&#34;book-desc&#34;&gt;How venture capital deals really come together — the term-sheet classic a generation of founders learned from.&lt;/div&gt;
+      &lt;a href=&#34;#&#34; class=&#34;book-btn&#34;&gt;Buy on Amazon&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;books-on-economics&#34;&gt;Books on Economics&lt;/h1&gt;
+&lt;div class=&#34;book-grid&#34;&gt;
+  &lt;!-- Card 1 --&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;div class=&#34;book-cover&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/images/toobigtofail.jpg&#34; alt=&#34;Too Big to Fail&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;book-info&#34;&gt;
+      &lt;div class=&#34;book-title&#34;&gt;Too Big to Fail &lt;span class=&#34;book-badge&#34;&gt;NEW&lt;/span&gt;&lt;/div&gt;
+      &lt;div class=&#34;book-subtitle&#34;&gt;The Inside Story of How Wall Street Fought&lt;/div&gt;
+      &lt;div class=&#34;book-meta&#34;&gt;Ideapress Publishing · Andrew Ross Sorkin · 2025&lt;/div&gt;
+      &lt;div class=&#34;book-desc&#34;&gt;The philosophy behind every great startup community — giving without expecting anything back, and how it makes you a better mentor and leader.&lt;/div&gt;
+      &lt;a href=&#34;https://goodreads.com/book/show/6687247.Too_Big_to_Fail_The_Inside_Story_of_How_Wall_Street_and_Washington_Fought_to_Save_the_Financial_System_from_Crisis___and_Themselves&#34; class=&#34;book-btn&#34;&gt;On Goodreads&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Card 2 --&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;div class=&#34;book-cover&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/images/venture-deals.jpg&#34; alt=&#34;Venture Deals Book Cover&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;book-info&#34;&gt;
+      &lt;div class=&#34;book-title&#34;&gt;Venture Deals&lt;/div&gt;
+      &lt;div class=&#34;book-subtitle&#34;&gt;Be Smarter Than Your Lawyer and Venture Capitalist&lt;/div&gt;
+      &lt;div class=&#34;book-meta&#34;&gt;Wiley · with Jason Mendelson · 4th edition · 2019&lt;/div&gt;
+      &lt;div class=&#34;book-desc&#34;&gt;How venture capital deals really come together — the term-sheet classic a generation of founders learned from.&lt;/div&gt;
+      &lt;a href=&#34;#&#34; class=&#34;book-btn&#34;&gt;Buy on Amazon&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Card 3 --&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;div class=&#34;book-cover&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/images/venture-deals.jpg&#34; alt=&#34;Venture Deals Book Cover&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;book-info&#34;&gt;
+      &lt;div class=&#34;book-title&#34;&gt;Venture Deals&lt;/div&gt;
+      &lt;div class=&#34;book-subtitle&#34;&gt;Be Smarter Than Your Lawyer and Venture Capitalist&lt;/div&gt;
+      &lt;div class=&#34;book-meta&#34;&gt;Wiley · with Jason Mendelson · 4th edition · 2019&lt;/div&gt;
+      &lt;div class=&#34;book-desc&#34;&gt;How venture capital deals really come together — the term-sheet classic a generation of founders learned from.&lt;/div&gt;
+      &lt;a href=&#34;#&#34; class=&#34;book-btn&#34;&gt;Buy on Amazon&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Card 4 --&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;div class=&#34;book-cover&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/images/venture-deals.jpg&#34; alt=&#34;Venture Deals Book Cover&#34;&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;book-info&#34;&gt;
+      &lt;div class=&#34;book-title&#34;&gt;Venture Deals&lt;/div&gt;
+      &lt;div class=&#34;book-subtitle&#34;&gt;Be Smarter Than Your Lawyer and Venture Capitalist&lt;/div&gt;
+      &lt;div class=&#34;book-meta&#34;&gt;Wiley · with Jason Mendelson · 4th edition · 2019&lt;/div&gt;
+      &lt;div class=&#34;book-desc&#34;&gt;How venture capital deals really come together — the term-sheet classic a generation of founders learned from.&lt;/div&gt;
+      &lt;a href=&#34;#&#34; class=&#34;book-btn&#34;&gt;Buy on Amazon&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;series-header&#34;&gt;The Startup Series&lt;/div&gt;
+&lt;div class=&#34;series-grid&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/startup-communities.jpg&#34; alt=&#34;Startup Communities&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/startup-community-way.jpg&#34; alt=&#34;The Startup Community Way&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/startup-boards.jpg&#34; alt=&#34;Startup Boards&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/startup-opportunities.jpg&#34; alt=&#34;Startup Opportunities&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/startup-life.jpg&#34; alt=&#34;Startup Life&#34;&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>projects</description>
+    </item>
+  </channel>
+</rss>
