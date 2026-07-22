@@ -1,6 +1,6 @@
 baseURL: 'https://harshaljoshi.in/'
 languageCode: 'en-us'
-title: 'Harshals Knowledge Repo'
+title: 'Harshals Knowledge Repo.'
 theme: 'PaperMod'
 
 enableInlineShortcodes: true
