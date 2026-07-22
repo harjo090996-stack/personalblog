@@ -2,7 +2,7 @@
 title: "Langdon's Barcelona"
 date: 2025-11-25 10:00:00 +0530
 categories: [Life, Travel]
-tags: [europe, barcelona, books]
+tags: [travel, books]
 ---
 
 In the age of books and classics being converted into movies, it is common for people to come up with comparisons. A high handedness emerges from the book readers claiming deviation of the plot from the book and debate ensues. But in my case, it was not a comparison between a book and a film or series rather a comparison of reality and then experiencing the same while reading a book. The book was from a author who is well known to mix fact with fiction intricately and even this time he did not disappoint.

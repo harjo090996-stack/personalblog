@@ -47,9 +47,9 @@ menu:
       name: About
       url: /about/
       weight: 50
-    - identifier: subscribe
-      name: LinkedIn
-      url: "https://www.linkedin.com/in/harshalmangeshjoshi/"
+    - identifier: tag
+      name: Tags
+      url: /tags/
       weight: 60
 
 params:
@@ -94,7 +94,7 @@ params:
         <span>Harshal Joshi</span>
       </div>
     Content: |
-      Inquisitive Reader, Explorer of Knowledge Rabbitholes & Deep Tech enthusiast. I write about Investment themes, Startups, Books and Life [Read more..](/about/)
+      Inquisitive Reader, Deep Tech enthusiast & Exploring new avenues in Business & Finance. I write about Investment themes, Startups, Books I read and Life. [Read more..](/about/)
 
   socialIcons:
     - name: github

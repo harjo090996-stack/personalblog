@@ -2,7 +2,7 @@
 title: "The Banking Funnel"
 date: 2025-11-25 10:00:00 +0530
 categories: [Finance, Banking]
-tags: [banks, npa, public-markets]
+tags: [finance, banking]
 ---
 With the monetary policy committee (MPC) of RBI meeting between 4th to 6th August and a fresh wave of sanctions from Trump there is a lot of chatter on what stance would be taken going ahead. Even though there is a large focus on the repo rate changes which the central banks propose there are still very different tacit approaches by which the liquidity in economy is controlled. There are controls not only on the credit disbursed but where the credit is being disbursed.
 

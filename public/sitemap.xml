@@ -5,10 +5,10 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-05-29T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/developing-economy/</loc>
+    <loc>http://localhost:1313/categories/economics/</loc>
     <lastmod>2026-05-29T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/economics/</loc>
+    <loc>http://localhost:1313/tags/economics/</loc>
     <lastmod>2026-05-29T10:00:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -17,13 +17,10 @@
     <loc>http://localhost:1313/categories/india/</loc>
     <lastmod>2026-05-29T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/inflation/</loc>
+    <loc>http://localhost:1313/tags/indiass/</loc>
     <lastmod>2026-05-29T10:00:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2026-05-29-turmoiloil/</loc>
-    <lastmod>2026-05-29T10:00:00+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/oil-shock/</loc>
     <lastmod>2026-05-29T10:00:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -35,19 +32,16 @@
     <loc>http://localhost:1313/categories/banking/</loc>
     <lastmod>2025-11-25T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/banks/</loc>
-    <lastmod>2025-11-25T10:00:00+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/barcelona/</loc>
+    <loc>http://localhost:1313/tags/banking/</loc>
     <lastmod>2025-11-25T10:00:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/books/</loc>
     <lastmod>2025-11-25T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/europe/</loc>
+    <loc>http://localhost:1313/categories/finance/</loc>
     <lastmod>2025-11-25T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/finance/</loc>
+    <loc>http://localhost:1313/tags/finance/</loc>
     <lastmod>2025-11-25T10:00:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-11-25-robertsbarcelona/</loc>
@@ -56,22 +50,19 @@
     <loc>http://localhost:1313/categories/life/</loc>
     <lastmod>2025-11-25T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/npa/</loc>
-    <lastmod>2025-11-25T10:00:00+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/public-markets/</loc>
-    <lastmod>2025-11-25T10:00:00+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/2025-11-25-bankingfunnel/</loc>
     <lastmod>2025-11-25T10:00:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/travel/</loc>
     <lastmod>2025-11-25T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/musings/</loc>
+    <loc>http://localhost:1313/tags/travel/</loc>
+    <lastmod>2025-11-25T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/life/</loc>
     <lastmod>2025-11-24T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/random-thoughts/</loc>
+    <loc>http://localhost:1313/categories/musings/</loc>
     <lastmod>2025-11-24T10:00:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-11-24-saunter/</loc>

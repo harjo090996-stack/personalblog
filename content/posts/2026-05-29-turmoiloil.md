@@ -2,7 +2,7 @@
 title: "Is Turmoil the only Oil left for the Mechanics of Economy?"
 date: 2026-05-29 10:00:00 +0530
 categories: [Economics, India]
-tags: [inflation, oil shock, developing economy]
+tags: [economics, india]
 ---
 The Economic Survey of India 2025-26 presented on 29th Jan had highlighted how India's GDP Growth can be hampered by a combination of elements like Financial Stress, trade frictions and geopolitical tensions. It stated how the world will be in constant state of turmoil and the key will be less about continuity but more about managed disorder.
 
