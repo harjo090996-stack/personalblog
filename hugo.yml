@@ -110,13 +110,16 @@ params:
       title: Mail me at
       url: "mailto:harshaljoshi096@gmail.com"
 
-assets:
-  disableHLJS: true
-  favicon: "/favicon.ico"
-  favicon16x16: "/favicon-16x16.png"
-  favicon32x32: "/favicon-32x32.png"
-  apple_touch_icon: "/apple-touch-icon.png"
-  safari_pinned_tab: "/safari-pinned-tab.svg"
+  # Properly indented under params, with fingerprinting explicitly enabled
+  assets:
+    disableFingerprinting: false
+    disableHLJS: true
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+
 markup:
   goldmark:
     renderer:
