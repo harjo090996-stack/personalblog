@@ -65,7 +65,19 @@
     <loc>http://localhost:1313/categories/musings/</loc>
     <lastmod>2025-11-24T10:00:00+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2025-11-24T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/startups/</loc>
+    <lastmod>2025-11-24T10:00:00+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/2025-11-24-saunter/</loc>
+    <lastmod>2025-11-24T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/venturecapital/</loc>
+    <lastmod>2025-11-24T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/venturecapital/</loc>
     <lastmod>2025-11-24T10:00:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
@@ -74,8 +86,8 @@
   </url><url>
     <loc>http://localhost:1313/books/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-  </url><url>
     <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/venture-capital/</loc>
   </url>
 </urlset>

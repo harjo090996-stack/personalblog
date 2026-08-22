@@ -62,5 +62,26 @@
       <guid>http://localhost:1313/tags/life/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Startups</title>
+      <link>http://localhost:1313/tags/startups/</link>
+      <pubDate>Mon, 24 Nov 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/startups/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Venturecapital</title>
+      <link>http://localhost:1313/tags/venturecapital/</link>
+      <pubDate>Mon, 24 Nov 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/venturecapital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Venture Capital</title>
+      <link>http://localhost:1313/tags/venture-capital/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/venture-capital/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -43,6 +43,13 @@
       <description>&lt;p&gt;The first thing after reading this title that I wrote was why I am using a fancy word for walking leisurely. But alas I&amp;rsquo;m too engrossed in romanticizing walking as do people to running. I came across this word first reading about Aristotle and his “School of Peripatetics” which was his way of bringing clarity to thoughts while walking. He used to teach while walking and run thought experiments. But I&amp;rsquo;m not always thinking about such critical things while walking and hence I stuck upon Saunter which is more like wandering without any aim. For me this is the time actually where I&amp;rsquo;m thinking so much on so many things that I pick up random rabbit holes of knowledge, end up reading too much enough to conclude that there is so much more to that topic and the cycle continues.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Venture Capital Playbook - Renewable Energy</title>
+      <link>http://localhost:1313/projects/venturecapital/</link>
+      <pubDate>Mon, 24 Nov 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/projects/venturecapital/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,7 +68,8 @@
   &lt;ul style=&#34;margin-top: 10px; line-height: 1.8;&#34;&gt;
     &lt;li&gt;&lt;a href=&#34;#inspire&#34;&gt;Books That Inspire Me - Absolute Favourites&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#finance&#34;&gt;History of Finance&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#economics&#34;&gt;Books on Economics &amp; Developing Countries&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#economics&#34;&gt;Biographies &amp; Memoirs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#fiction&#34;&gt;Favourites - Fiction&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/details&gt;
 &lt;div class=&#34;series-header&#34; id=&#34;inspire&#34;&gt;Books That Inspire Me - Absolute Favourites&lt;/div&gt;
@@ -72,7 +80,6 @@
   &lt;img src=&#34;http://localhost:1313/images/whatever.jpg&#34; alt=&#34;Whatever you do don&#39;t run&#34;&gt;
   &lt;img src=&#34;http://localhost:1313/images/goingsolo.jpg&#34; alt=&#34;Going Solo&#34;&gt;
 &lt;/div&gt;
-&lt;div style=&#34;display: none;&#34;&gt;
 &lt;div class=&#34;series-header&#34; id=&#34;finance&#34;&gt;History of Finance&lt;/div&gt;
 &lt;div class=&#34;book-grid&#34;&gt;
   &lt;!-- Card 1 --&gt;
@@ -128,7 +135,7 @@
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;series-header&#34; id=&#34;economics&#34;&gt;Books on Economics &amp; Developing Countries&lt;/div&gt;
+&lt;div class=&#34;series-header&#34; id=&#34;economics&#34;&gt;Biographies &amp; Memoirs&lt;/div&gt;
 &lt;div class=&#34;book-grid&#34;&gt;
   &lt;!-- Card 1 --&gt;
   &lt;div class=&#34;book-card&#34;&gt;
@@ -183,14 +190,14 @@
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;div class=&#34;series-header&#34; id=&#34;fiction&#34;&gt;Favourites - Fiction&lt;/div&gt;
+&lt;div class=&#34;series-grid&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/miraclesonwheels.jpg&#34; alt=&#34;Miracles on Wheels- Anatoly Markusa&#34; style=&#34;width: 100%; aspect-ratio: 2 / 3; object-fit: cover;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/surely.jpg&#34; alt=&#34;Surely you&#39;re joking Mr. Feynman&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/shoedog.jpg&#34; alt=&#34;Shoe Dog&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/whatever.jpg&#34; alt=&#34;Whatever you do don&#39;t run&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/goingsolo.jpg&#34; alt=&#34;Going Solo&#34;&gt;
 &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>projects</description>
     </item>
   </channel>
 </rss>

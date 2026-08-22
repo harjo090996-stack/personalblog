@@ -11,7 +11,8 @@ I read across the length and breadth of fiction, non-fiction on themes ranging f
   <ul style="margin-top: 10px; line-height: 1.8;">
     <li><a href="#inspire">Books That Inspire Me - Absolute Favourites</a></li>
     <li><a href="#finance">History of Finance</a></li>
-    <li><a href="#economics">Books on Economics & Developing Countries</a></li>
+    <li><a href="#economics">Biographies & Memoirs</a></li>
+    <li><a href="#fiction">Favourites - Fiction</a></li>
   </ul>
 </details>
 
@@ -25,7 +26,7 @@ I read across the length and breadth of fiction, non-fiction on themes ranging f
   <img src="/images/goingsolo.jpg" alt="Going Solo">
 </div>
 
-<div style="display: none;">
+
 <div class="series-header" id="finance">History of Finance</div>
 
 <div class="book-grid">
@@ -86,7 +87,7 @@ I read across the length and breadth of fiction, non-fiction on themes ranging f
   </div>
 </div>
 
-<div class="series-header" id="economics">Books on Economics & Developing Countries</div>
+<div class="series-header" id="economics">Biographies & Memoirs</div>
 
 <div class="book-grid">
   <!-- Card 1 -->
@@ -145,4 +146,13 @@ I read across the length and breadth of fiction, non-fiction on themes ranging f
     </div>
   </div>
 </div>
+
+<div class="series-header" id="fiction">Favourites - Fiction</div>
+
+<div class="series-grid">
+  <img src="/images/miraclesonwheels.jpg" alt="Miracles on Wheels- Anatoly Markusa" style="width: 100%; aspect-ratio: 2 / 3; object-fit: cover;">
+  <img src="/images/surely.jpg" alt="Surely you're joking Mr. Feynman">
+  <img src="/images/shoedog.jpg" alt="Shoe Dog">
+  <img src="/images/whatever.jpg" alt="Whatever you do don't run">
+  <img src="/images/goingsolo.jpg" alt="Going Solo">
 </div>
