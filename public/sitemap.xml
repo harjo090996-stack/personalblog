@@ -87,7 +87,5 @@
     <loc>http://localhost:1313/books/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/venture-capital/</loc>
   </url>
 </urlset>
