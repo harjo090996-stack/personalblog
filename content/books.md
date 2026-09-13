@@ -96,11 +96,11 @@ I read across the length and breadth of fiction, non-fiction on themes ranging f
       <img src="/images/toobigtofail.jpg" alt="Too Big to Fail">
     </div>
     <div class="book-info">
-      <div class="book-title">Too Big to Fail <span class="book-badge">NEW</span></div>
-      <div class="book-subtitle">The Inside Story of How Wall Street Fought</div>
-      <div class="book-meta">Ideapress Publishing · Andrew Ross Sorkin · 2025</div>
+      <div class="book-title">The Money Trap <span class="book-badge">NEW</span></div>
+      <div class="book-subtitle">Grand Fortunes and Lost Illusions Inside the Tech Bubble</div>
+      <div class="book-meta">Alok Sama · 2025</div>
       <div class="book-desc">The philosophy behind every great startup community — giving without expecting anything back, and how it makes you a better mentor and leader.</div>
-      <a href="https://goodreads.com/book/show/6687247.Too_Big_to_Fail_The_Inside_Story_of_How_Wall_Street_and_Washington_Fought_to_Save_the_Financial_System_from_Crisis___and_Themselves" class="book-btn">On Goodreads</a>
+      <a href="https://goodreads.com/book/show/6687247.Too_Big_to_Fail_The_Inside_Story_of_How_Wall_Street_and_Washington_Fought_to_Save_the_Financial_System_from_Crisis___and_Themselves" class="book-btn">Read More</a>
     </div>
   </div>
 

@@ -1,6 +1,6 @@
 baseURL: 'https://harshaljoshi.in/'
 languageCode: 'en-us'
-title: 'Harshals Knowledge Repo.'
+title: 'Harshal Joshi: Writings on Finance,Tech & Markets '
 theme: 'PaperMod'
 
 enableInlineShortcodes: true
